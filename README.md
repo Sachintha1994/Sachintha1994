@@ -20,7 +20,7 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/" target="_blank">
+  <a href="https://www.linkedin.com/in/thilina-weerasinghe/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
 </p>
@@ -30,7 +30,7 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,azure,gcp,docker,tensorflow,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,html,css,js,ts,java,python,mysql,mongodb,aws,azure,gcp,docker,git,github,vscode" />
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandeepa-git&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sachintha1994&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -46,9 +46,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeepa-git&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepa-git&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepa-git&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sachintha1994&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sachintha1994&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sachintha1994&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

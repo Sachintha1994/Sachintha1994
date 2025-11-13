@@ -2,11 +2,11 @@
 <h3 align="center">Always excited to learn, build, and collaborate!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeepa-git&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa-git" />
+  <img src="https://komarev.com/ghpvc/?username=Sachintha1994&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa-git" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Bacendend+Dev+%7C+AI+Enthusiast+%7C+Cloud+Explorer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines= Backendend+Dev+%7C+AI+Enthusiast+%7C+Cloud+Explorer;" alt="Typing SVG" />
 </p>
 
 ---

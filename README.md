@@ -35,14 +35,6 @@
 
 ---
 
-### GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sachintha1994&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
 ### GitHub Stats
 
 <p align="center">
